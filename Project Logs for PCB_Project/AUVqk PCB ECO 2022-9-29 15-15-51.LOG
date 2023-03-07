@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=JP19-2
+Added Pin To Net: NetName=5V_JETSON Pin=JP19-2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

@@ -1,0 +1,7 @@
+Added Component: Designator=J15(PIN-4-2.0-0.8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

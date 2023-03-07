@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VIN Pin=511-1
+Removed Pin From Net: NetName=IN+ Pin=511-2
+Removed Pin From Net: NetName=IN- Pin=511-3
+Removed Pin From Net: NetName=GND Pin=511-4
+Added Component: Designator=511(KF350-4P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=511-1
+Added Pin To Net: NetName=IN+ Pin=511-2
+Added Pin To Net: NetName=IN- Pin=511-3
+Added Pin To Net: NetName=GND Pin=511-4
+Added Member To Class: ClassName=Sheet1 Member=Component C12 1uF (105) 10% 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C13 10pF (100) 5% 50V
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 2X25
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 Header 2X25
+Added Member To Class: ClassName=Sheet1 Member=Component R9 Resistor Chip 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R10 0.2Ω (R20) ±1%
+Added Member To Class: ClassName=Sheet1 Member=Component U3 REF5025
+Added Member To Class: ClassName=Sheet1 Member=Component U4 INA282
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

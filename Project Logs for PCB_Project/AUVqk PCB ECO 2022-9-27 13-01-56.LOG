@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=5V Pin=JP17-2
+Removed Pin From Net: NetName=GND Pin=JP17-5
+Removed Pin From Net: NetName=5V Pin=JP18-2
+Removed Pin From Net: NetName=GND Pin=JP18-5
+Removed Pin From Net: NetName=5V Pin=JP19-2
+Removed Pin From Net: NetName=GND Pin=JP19-5
+Removed Member From Class: ClassName=Sheet2 Member=JP18
+Removed Member From Class: ClassName=Sheet2 Member=JP19
+Added Component: Designator=JP?(XH2.54-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-LI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA6 Pin=JP?-1
+Added Pin To Net: NetName=PB4 Pin=JP?-1
+Added Pin To Net: NetName=PB14 Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=PA5 Pin=JP?-3
+Added Pin To Net: NetName=PB3 Pin=JP?-3
+Added Pin To Net: NetName=PB13 Pin=JP?-3
+Added Pin To Net: NetName=PA7 Pin=JP?-4
+Added Pin To Net: NetName=PB5 Pin=JP?-4
+Added Pin To Net: NetName=PB15 Pin=JP?-4
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=PA4 Pin=JP?-6
+Added Pin To Net: NetName=PA15 Pin=JP?-6
+Added Pin To Net: NetName=PB12 Pin=JP?-6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
