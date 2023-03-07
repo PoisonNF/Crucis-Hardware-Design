@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RS1035-3 Pin=JP7-2
+Removed Pin From Net: NetName=RS1035-1 Pin=JP8-2
+Removed Pin From Net: NetName=RS1035-4 Pin=JP9-2
+Removed Pin From Net: NetName=RS1035-2 Pin=JP10-2
+Added Pin To Net: NetName=RS1035-4 Pin=JP7-2
+Added Pin To Net: NetName=RS1035-3 Pin=JP8-2
+Added Pin To Net: NetName=RS1035-2 Pin=JP9-2
+Added Pin To Net: NetName=RS1035-1 Pin=JP10-2
