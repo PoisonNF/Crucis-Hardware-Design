@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\bcl\iCloudDrive\水下机器人\Crucis\Curcis_JetsonV4\PCB_Project\AUVqk.PcbDoc
-Date     : 2022/10/29
-Time     : 21:04:30
+PCB File : C:\Users\bcl\iCloudDrive\水下机器人\Crucis\Curcis_JetsonV5\PCB_Project\AUVqk.PcbDoc
+Date     : 2022/11/10
+Time     : 13:30:41
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=1.27mm) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
