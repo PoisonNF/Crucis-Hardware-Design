@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetJP8_1 New Net Name=232TX
+Change Net Name : Old Net Name=NetJP8_2 New Net Name=232RX
+Added Member To Class: ClassName=Sheet1 Member=Component JP17 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component U3 MAX3232IDR C18261

@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BBFTLCFF
+DocumentUniqueId=OPZHIQUA
 
 [Document7]
 DocumentPath=D:\AD开发\SIGMALib\4-Diode.SchLib
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EMLFMZBL
+DocumentUniqueId=HXMJWNYS
 
 [Document8]
 DocumentPath=D:\AD开发\SIGMALib\5-LED.SchLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OHBFLLQH
+DocumentUniqueId=XFEIVZPP
 
 [Document9]
 DocumentPath=D:\AD开发\SIGMALib\6-Transistor_PNP.SchLib
@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UKLTSYUS
+DocumentUniqueId=DQICAVWT
 
 [Document10]
 DocumentPath=D:\AD开发\SIGMALib\7-Transistor_NPN.SchLib
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZAMZKYDD
+DocumentUniqueId=MFBHVRHS
 
 [Document11]
 DocumentPath=D:\AD开发\SIGMALib\8-LDO.SchLib
@@ -222,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SCKRBGQP
+DocumentUniqueId=FUYZXSXL
 
 [Document12]
 DocumentPath=D:\AD开发\SIGMALib\9-MOS.SchLib
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YAIXBLDF
+DocumentUniqueId=LSAXGEGV
 
 [Document13]
 DocumentPath=D:\AD开发\SIGMALib\10-Fuse_Osc.SchLib
@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UXNBMYYN
+DocumentUniqueId=RXPEOTUV
 
 [Document14]
 DocumentPath=D:\AD开发\SIGMALib\11-MCU.SchLib
