@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\bcl\iCloudDrive\水下机器人\Crucis\Crucis_Raspberry\PCB_Project\AUVqk.PcbDoc
-Date     : 2022/9/7
-Time     : 21:34:23
+PCB File : C:\Users\bcl\iCloudDrive\水下机器人\Crucis\Curcis_Jetson\PCB_Project\AUVqk.PcbDoc
+Date     : 2022/9/10
+Time     : 10:33:51
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -45,4 +45,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
