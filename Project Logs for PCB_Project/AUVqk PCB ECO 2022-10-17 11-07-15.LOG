@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=VIN Pin=CN1-2
-Removed Pin From Net: NetName=VIN Pin=KEY-1
-Added Pin To Net: NetName=24V Pin=CN1-2
-Added Pin To Net: NetName=24V Pin=KEY-1
-Added Net: Name=24V
-Added Room: Name=Sheet1
-Added Room: Name=Sheet2

@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=24V Pin=SWITCH-1
-Removed Pin From Net: NetName=VIN Pin=SWITCH-2
-Added Pin To Net: NetName=VIN Pin=SWITCH-1
-Added Pin To Net: NetName=24V Pin=SWITCH-2
-Added Member To Class: ClassName=Sheet1 Member=Component JP2 Header 2X25
