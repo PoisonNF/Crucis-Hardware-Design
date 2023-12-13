@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=ERX+ New Net Name=ERX_P
+Change Net Name : Old Net Name=ERX- New Net Name=ERX_N
+Change Net Name : Old Net Name=ETX+ New Net Name=ETX_P
+Change Net Name : Old Net Name=ETX- New Net Name=ETX_N
+Added Differential Pair: Name=ERX
+Added Differential Pair: Name=ETX

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PD14 Pin=FPC-19
+Removed Pin From Net: NetName=PD13 Pin=FPC-20
+Added Pin To Net: NetName=PD13 Pin=FPC-19
+Added Pin To Net: NetName=PD14 Pin=FPC-20

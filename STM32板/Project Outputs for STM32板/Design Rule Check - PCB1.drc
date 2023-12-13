@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc
+Date     : 2023/12/13
+Time     : 16:18:14
+
+Processing Rule : Clearance Constraint (Gap=3.937mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 3.937mil) Between Split Plane  (3.3V) on PWR And Split Plane  (No Net) on PWR 
+   Violation between Clearance Constraint: (Collision < 3.937mil) Between Split Plane  (3.3V) on PWR And Split Plane  (No Net) on PWR 
+   Violation between Clearance Constraint: (Collision < 3.937mil) Between Split Plane  (5V) on PWR And Split Plane  (No Net) on PWR 
+   Violation between Clearance Constraint: (Collision < 3.937mil) Between Split Plane  (5V) on PWR And Split Plane  (No Net) on PWR 
+   Violation between Clearance Constraint: (Collision < 3.937mil) Between Split Plane  (GND) on GND And Split Plane  (No Net) on GND 
+Rule Violations :5
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (110.236mil > 100mil) Pad Free-0(1252.13mil,320.27mil) on Multi-Layer Actual Slot Hole Height = 110.236mil
+   Violation between Hole Size Constraint: (110.436mil > 100mil) Pad Free-0(1252.13mil,320.27mil) on Multi-Layer Actual Slot Hole Width = 110.436mil
+   Violation between Hole Size Constraint: (110.236mil > 100mil) Pad Free-0(1260mil,1025mil) on Multi-Layer Actual Slot Hole Height = 110.236mil
+   Violation between Hole Size Constraint: (110.436mil > 100mil) Pad Free-0(1260mil,1025mil) on Multi-Layer Actual Slot Hole Width = 110.436mil
+   Violation between Hole Size Constraint: (110.236mil > 100mil) Pad Free-0(2704.89mil,312.4mil) on Multi-Layer Actual Slot Hole Height = 110.236mil
+   Violation between Hole Size Constraint: (110.436mil > 100mil) Pad Free-0(2704.89mil,312.4mil) on Multi-Layer Actual Slot Hole Width = 110.436mil
+   Violation between Hole Size Constraint: (129.921mil > 100mil) Via (275.591mil,275.591mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil
+   Violation between Hole Size Constraint: (129.921mil > 100mil) Via (275.591mil,3661.417mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil
+   Violation between Hole Size Constraint: (129.921mil > 100mil) Via (3661.417mil,275.591mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil
+   Violation between Hole Size Constraint: (129.921mil > 100mil) Via (3661.417mil,3661.417mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil
+Rule Violations :10
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 15
+Waived Violations : 0
+Time Elapsed        : 00:00:01

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC6 Pin=R1-2
+Removed Pin From Net: NetName=PC7 Pin=R2-2
+Added Room: Name=AD4111_1
+Added Room: Name=AD4111_2
+Added Room: Name=STM32

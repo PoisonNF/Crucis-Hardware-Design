@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=ENET2_RXD0 New Net Name=ENET2_RXD_N
+Change Net Name : Old Net Name=ENET2_RXD1 New Net Name=ENET2_RXD_P
+Change Net Name : Old Net Name=ENET2_TXD0 New Net Name=ENET2_TXD_N
+Change Net Name : Old Net Name=ENET2_TXD1 New Net Name=ENET2_TXD_P
+Added Differential Pair: Name=ENET2_RXD
+Added Differential Pair: Name=ENET2_TXD

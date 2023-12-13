@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PC6 Pin=FPC-22
+Removed Pin From Net: NetName=PC7 Pin=FPC-23
+Added Pin To Net: NetName=NetFPC_22 Pin=FPC-22
+Added Net: Name=NetFPC_22
+Added Pin To Net: NetName=NetFPC_23 Pin=FPC-23
+Added Net: Name=NetFPC_23

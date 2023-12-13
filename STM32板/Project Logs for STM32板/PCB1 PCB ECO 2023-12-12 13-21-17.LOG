@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U??-2
+Removed Pin From Net: NetName=RST Pin=U??-9
+Added Pin To Net: NetName=RST Pin=U??-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP? 2685Y-225CNG1SNA01

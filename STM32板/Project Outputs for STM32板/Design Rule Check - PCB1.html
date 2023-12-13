@@ -1,0 +1,377 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 8em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://D:\Altium Designer 22.1.2\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">2023/12/13</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">16:18:14</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:01</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc" class="file"><acronym title="E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc">E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3">0</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">15</td></tr>
+</table>
+</td>
+</table><a name="IDHEWAX4KPQMR4BQRRVLSHNI1SCKMY32RK4MGRLQLYWM3WMHEZMH1K"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDSGBUE4Y4XNRIPG0HAQJG4JFQKBP1ZT2EMYDKVIE5K5CFPWGBC31O">Clearance Constraint (Gap=3.937mil) (All),(All)</a></td>
+<td class="column2">5</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDCLGRG01TKIACMZRH4KPXWZ1Y3PPZVEGLDUCDTLELTD5RX3VZN15L">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDILXVATDEOVNXGT1GX5NVHMDQAEHEXNH0J3EZFWIWGGW32Z1HKRXL">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDVDFF5ODFVK2OIDVKWBYMHDXDXJUPAKQINWATDDBO55BUMXS2A3CP">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID3CCREGDMFMRDBE5YFGP5TZJWKNWYM5PZEKXWULHZDMTBB13UXYFG">Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDC4A435BH35CBDQZ4OKWDDPLANM213AO03DFSLKY12EF0TAIHH1N">Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDNKX3C4HJZCNONDY0YJ5XMWXMVC0GLECGWTN40XF2K2V5NOK4CWOE">Hole Size Constraint (Min=1mil) (Max=100mil) (All)</a></td>
+<td class="column2">10</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDGBOTPLDG5OKZNQ5PJJHJAIDEWJR2CRCWZSG45RPMRN150YZCD4OM">Hole To Hole Clearance (Gap=10mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDFGGSWXW00ZHTTV545YNJA4HQDPZYUYDVTYN4SGB0AUJVOGA1UAM">Minimum Solder Mask Sliver (Gap=0mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID3G2NZVK51GAIF3GTU0RZBCZWNTJNDHT5I3OK0KJHEMT3ZQUZTN">Silk To Solder Mask (Clearance=0mil) (IsPad),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDGVOPYFEDQHMDGHUUNUCCMWQLKNNBDEPFI3LFNXEMKGCX2BFUBFVJ">Silk to Silk (Clearance=0mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDMDPVUOUOXMCAOMSQH5EJUCJ20HVV3NVZ3OCPUELMCEANMU1X1T1H">Net Antennae (Tolerance=0mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDOL1TEVKDMT3KLVODCWB4DRRBNMXQWQ3N4IJUBCOCEQLVTF1CGFQF">Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">15</td>
+</tr>
+</table><br><a name="IDSGBUE4Y4XNRIPG0HAQJG4JFQKBP1ZT2EMYDKVIE5K5CFPWGBC31O"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Clearance Constraint (Gap=3.937mil) (All),(All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2195.986mil|Location2.X=2199.61mil|Location1.Y=1048.185mil|Location2.Y=1051.809mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2195.986mil|Location2.X=2199.61mil|Location1.Y=1048.185mil|Location2.Y=1051.809mil|Absolute=True">Clearance Constraint: (Collision &lt; 3.937mil) Between Split Plane  (3.3V) on PWR And Split Plane  (No Net) on PWR </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1956.074mil|Location2.X=1959.698mil|Location1.Y=1288.673mil|Location2.Y=1292.298mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1956.074mil|Location2.X=1959.698mil|Location1.Y=1288.673mil|Location2.Y=1292.298mil|Absolute=True">Clearance Constraint: (Collision &lt; 3.937mil) Between Split Plane  (3.3V) on PWR And Split Plane  (No Net) on PWR </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5593.22mil|Location2.X=5596.845mil|Location1.Y=4913.94mil|Location2.Y=4917.564mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5593.22mil|Location2.X=5596.845mil|Location1.Y=4913.94mil|Location2.Y=4917.564mil|Absolute=True">Clearance Constraint: (Collision &lt; 3.937mil) Between Split Plane  (5V) on PWR And Split Plane  (No Net) on PWR </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5820.3mil|Location2.X=5823.924mil|Location1.Y=4673.698mil|Location2.Y=4677.323mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5820.3mil|Location2.X=5823.924mil|Location1.Y=4673.698mil|Location2.Y=4677.323mil|Absolute=True">Clearance Constraint: (Collision &lt; 3.937mil) Between Split Plane  (5V) on PWR And Split Plane  (No Net) on PWR </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1935.996mil|Location2.X=1939.621mil|Location1.Y=1288.674mil|Location2.Y=1292.298mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1935.996mil|Location2.X=1939.621mil|Location1.Y=1288.674mil|Location2.Y=1292.298mil|Absolute=True">Clearance Constraint: (Collision &lt; 3.937mil) Between Split Plane  (GND) on GND And Split Plane  (No Net) on GND </acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDNKX3C4HJZCNONDY0YJ5XMWXMVC0GLECGWTN40XF2K2V5NOK4CWOE"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Hole Size Constraint (Min=1mil) (Max=100mil) (All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3121.287mil|Location2.X=3232.973mil|Location1.Y=1279.427mil|Location2.Y=1391.113mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3121.287mil|Location2.X=3232.973mil|Location1.Y=1279.427mil|Location2.Y=1391.113mil|Absolute=True">Hole Size Constraint: (110.236mil &gt; 100mil) Pad Free-0(1252.13mil,320.27mil) on Multi-Layer Actual Slot Hole Height = 110.236mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3121.287mil|Location2.X=3232.973mil|Location1.Y=1279.427mil|Location2.Y=1391.113mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3121.287mil|Location2.X=3232.973mil|Location1.Y=1279.427mil|Location2.Y=1391.113mil|Absolute=True">Hole Size Constraint: (110.436mil &gt; 100mil) Pad Free-0(1252.13mil,320.27mil) on Multi-Layer Actual Slot Hole Width = 110.436mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3129.157mil|Location2.X=3240.843mil|Location1.Y=1984.157mil|Location2.Y=2095.843mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3129.157mil|Location2.X=3240.843mil|Location1.Y=1984.157mil|Location2.Y=2095.843mil|Absolute=True">Hole Size Constraint: (110.236mil &gt; 100mil) Pad Free-0(1260mil,1025mil) on Multi-Layer Actual Slot Hole Height = 110.236mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3129.157mil|Location2.X=3240.843mil|Location1.Y=1984.157mil|Location2.Y=2095.843mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3129.157mil|Location2.X=3240.843mil|Location1.Y=1984.157mil|Location2.Y=2095.843mil|Absolute=True">Hole Size Constraint: (110.436mil &gt; 100mil) Pad Free-0(1260mil,1025mil) on Multi-Layer Actual Slot Hole Width = 110.436mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4574.047mil|Location2.X=4685.733mil|Location1.Y=1271.557mil|Location2.Y=1383.243mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4574.047mil|Location2.X=4685.733mil|Location1.Y=1271.557mil|Location2.Y=1383.243mil|Absolute=True">Hole Size Constraint: (110.236mil &gt; 100mil) Pad Free-0(2704.89mil,312.4mil) on Multi-Layer Actual Slot Hole Height = 110.236mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4574.047mil|Location2.X=4685.733mil|Location1.Y=1271.557mil|Location2.Y=1383.243mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4574.047mil|Location2.X=4685.733mil|Location1.Y=1271.557mil|Location2.Y=1383.243mil|Absolute=True">Hole Size Constraint: (110.436mil &gt; 100mil) Pad Free-0(2704.89mil,312.4mil) on Multi-Layer Actual Slot Hole Width = 110.436mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2135.005mil|Location2.X=2266.176mil|Location1.Y=1225.005mil|Location2.Y=1356.176mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2135.005mil|Location2.X=2266.176mil|Location1.Y=1225.005mil|Location2.Y=1356.176mil|Absolute=True">Hole Size Constraint: (129.921mil &gt; 100mil) Via (275.591mil,275.591mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2135.005mil|Location2.X=2266.176mil|Location1.Y=4610.832mil|Location2.Y=4742.003mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2135.005mil|Location2.X=2266.176mil|Location1.Y=4610.832mil|Location2.Y=4742.003mil|Absolute=True">Hole Size Constraint: (129.921mil &gt; 100mil) Via (275.591mil,3661.417mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5520.832mil|Location2.X=5652.003mil|Location1.Y=1225.005mil|Location2.Y=1356.176mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5520.832mil|Location2.X=5652.003mil|Location1.Y=1225.005mil|Location2.Y=1356.176mil|Absolute=True">Hole Size Constraint: (129.921mil &gt; 100mil) Via (3661.417mil,275.591mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\OneDrive\%E9%99%84%E4%BB%B6\%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9B%B8%E5%85%B3\Crucis%E8%AE%BE%E8%AE%A1\Crucis%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1\STM32%E6%9D%BF\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5520.832mil|Location2.X=5652.003mil|Location1.Y=4610.832mil|Location2.Y=4742.003mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5520.832mil|Location2.X=5652.003mil|Location1.Y=4610.832mil|Location2.Y=4742.003mil|Absolute=True">Hole Size Constraint: (129.921mil &gt; 100mil) Via (3661.417mil,3661.417mil) from Top Layer to Bottom Layer Actual Hole Size = 129.921mil</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PE11 Pin=FPC-14
+Removed Pin From Net: NetName=PE9 Pin=FPC-15
+Removed Pin From Net: NetName=PB1 Pin=FPC-16
+Removed Pin From Net: NetName=PB9 Pin=FPC-18
+Removed Pin From Net: NetName=PE14 Pin=FPC-19
+Removed Pin From Net: NetName=PB0 Pin=FPC-20
+Removed Pin From Net: NetName=PB6 Pin=FPC-21
+Added Pin To Net: NetName=PB0 Pin=FPC-14
+Added Pin To Net: NetName=PB1 Pin=FPC-15
+Added Pin To Net: NetName=PE14 Pin=FPC-16
+Added Pin To Net: NetName=PD12 Pin=FPC-18
+Added Pin To Net: NetName=PD14 Pin=FPC-19
+Added Pin To Net: NetName=PD13 Pin=FPC-20
+Added Pin To Net: NetName=PD15 Pin=FPC-21
+Added Pin To Net: NetName=PC8 Pin=FPC-28
+Added Pin To Net: NetName=PC6 Pin=FPC-29
+Added Pin To Net: NetName=PC7 Pin=FPC-30

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=K1-1
+Removed Pin From Net: NetName=B24V Pin=K1-4
+Removed Pin From Net: NetName=24V Pin=K1-5
+Removed Member From Class: ClassName=Sheet1 Member=K1
+Change Component Comment : Designator=R1 Old Comment=800 New Comment=0
+Added Component: Designator=U??(RELAY-TH_JQC-3FF-1HXX)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Rated Power"; Value = "360mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "1.6kΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "非极化-单线圈"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Form"; Value = "一组常开:1A(单刀单掷-常开)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "AgCdO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating"; Value = "10A@28VDC；10A@277VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "100mΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210423/C2764964_4D875C5A5AA80B7BE436E96771A09B40.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "JQC-3FF/024-1HS(551)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "超小型大功率24V继电器 单刀单掷-常开"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HF(宏发)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "JQC-3FF/024-1HS(551)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Switching Current"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Switching Voltage"; Value = "277V@AC；30V@DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "JQC-3FF/024-1HS(551)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operate Time"; Value = "10ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "5ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,15.5x19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2976877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "JQC-3FF/024-1HS(551)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U??-1
+Added Pin To Net: NetName=24V Pin=U??-3
+Added Pin To Net: NetName=B24V Pin=U??-4
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U??-2
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=Sheet1 Member=Component U?? JQC-3FF/024-1HS(551)
+Added Room: Name=Sheet1

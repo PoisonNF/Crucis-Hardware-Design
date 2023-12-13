@@ -1,0 +1,674 @@
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C30926_1506149436298988724.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ±10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C30926"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=CN??(CONN-TH_4P-P3.81_KF2EDGR-3.81-4P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "绿色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "板端/插座-闭口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191023/C441184_550E53BE0568649FEADF643ADAFA40B9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "板端/插座-闭口 3.81mm 排数:1 每排P数:4 弯针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(科发)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "P=3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C441184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - AWG"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - mm?"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=FPC?(FPC-SMD_30P-P0.50_XUNPU_FPC-05F-30PH20)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210922/C2856808_4E6DDE2793CFD9EF09B771A8BD3338A4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FPC-05F-30PH20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "0.5mm P数:30P 翻盖式 下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "翻盖式"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU(讯普)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FPC-05F-30PH20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "FPC-05F-30PH20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "30P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2856808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FPC-05F-30PH20"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(CONN-TH_2P-P3.81_KF2EDGR-3.81-2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "绿色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "板端/插座-闭口"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230331/6258E6C6BF04EFF922F3E5A9E72A4547.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "板端/插座-闭口 1x2P 3.81mm 排数:1 每排P数:2 弯针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(科发)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯针"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "弯插,P=3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C441182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(HDR-TH_50P-P2.54-V-F-R2-C25-S2.54-1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181220/C350296_D2530F60C4B7AD26B2D0A354C76F8429.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "2x25P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 2x25P Y型//环保耐高温/镀金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "华宇创"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "50P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "双排"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C350296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(HDR-TH_50P-P2.54-V-F-R2-C25-S2.54-1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181220/C350296_D2530F60C4B7AD26B2D0A354C76F8429.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "2x25P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 2x25P Y型//环保耐高温/镀金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "华宇创"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "50P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "双排"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C350296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "厚膜电阻 10kΩ ±1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(厚声)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10kΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+155℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "厚膜电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kΩ"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "厚膜电阻 10kΩ ±1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(厚声)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "10kΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+155℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C25804"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "0603WAF1002T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "厚膜电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kΩ"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR-1)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230625/435FEEFA02C0FE449E7397A11F8448E0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "A1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230625/435FEEFA02C0FE449E7397A11F8448E0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "IDCHIP(英锐芯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "A1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "A1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C7432020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "A1117-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOP-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20221230/256C03E6A712651C05B16D4BCED108A3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MAX232D_C5342103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "RS232芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tokmas(托克马斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MAX232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MAX232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5342103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MAX232D_C5342103"; VariantName = "[No Variations]"
+Added Component: Designator=U??(HDR-TH_10P-P2.54-H-F-R2-C5-W8.5)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circular Hole / Square Hole"; Value = "方孔"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230609/283C0D22EF4E6FFE03D5A855876981ED.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PM254-2-05-W-8.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Direction"; Value = "侧面"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "2x5P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:2.54mm 2x5P 弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HCTL(华灿天禄)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PM254-2-05-W-8.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PM254-2-05-W-8.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "双排"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "弯插,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2897425"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PM254-2-05-W-8.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=3.3V Pin=U1-2
+Added Pin To Net: NetName=3.3V Pin=U??-7
+Added Pin To Net: NetName=3.3V Pin=U??-8
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=5V Pin=CN??-1
+Added Pin To Net: NetName=5V Pin=JP1-1
+Added Pin To Net: NetName=5V Pin=JP?-50
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=5V Pin=U2-16
+Added Pin To Net: NetName=5V Pin=U??-10
+Added Net: Name=5V
+Added Pin To Net: NetName=232RX Pin=FPC?-27
+Added Pin To Net: NetName=232RX Pin=U2-13
+Added Net: Name=232RX
+Added Pin To Net: NetName=232TX Pin=FPC?-26
+Added Pin To Net: NetName=232TX Pin=U2-14
+Added Net: Name=232TX
+Added Pin To Net: NetName=AGND Pin=FPC?-1
+Added Net: Name=AGND
+Added Pin To Net: NetName=BOOT0 Pin=JP?-36
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=CN??-2
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-49
+Added Pin To Net: NetName=GND Pin=JP?-50
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U??-1
+Added Pin To Net: NetName=GND Pin=U??-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U2-3
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U2-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-5
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-4
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U2-6
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NRST Pin=JP?-1
+Added Net: Name=NRST
+Added Pin To Net: NetName=PA0 Pin=JP?-6
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=JP?-7
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=JP?-8
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=JP?-9
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=JP?-10
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=JP?-11
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=JP?-12
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=JP?-13
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=JP?-12
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=JP?-13
+Added Pin To Net: NetName=PA9 Pin=U2-11
+Added Pin To Net: NetName=PA9 Pin=U??-4
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=JP?-14
+Added Pin To Net: NetName=PA10 Pin=U2-12
+Added Pin To Net: NetName=PA10 Pin=U??-6
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=JP?-15
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=JP?-16
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA13 Pin=JP?-17
+Added Pin To Net: NetName=PA13 Pin=U??-5
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=JP?-18
+Added Pin To Net: NetName=PA14 Pin=U??-3
+Added Net: Name=PA14
+Added Pin To Net: NetName=PA15 Pin=JP?-19
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=JP?-16
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=JP?-17
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=JP?-18
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=JP?-31
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=JP?-32
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=JP?-33
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=JP?-34
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=JP?-35
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=JP?-37
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=JP?-38
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=JP?-28
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=JP?-29
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=JP?-30
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=JP?-31
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=JP?-32
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=JP?-33
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC0 Pin=JP?-2
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=JP?-3
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=JP?-4
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=JP?-5
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=JP?-14
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=JP?-15
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=FPC?-22
+Added Pin To Net: NetName=PC6 Pin=JP?-8
+Added Pin To Net: NetName=PC6 Pin=R1-2
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=FPC?-23
+Added Pin To Net: NetName=PC7 Pin=JP?-9
+Added Pin To Net: NetName=PC7 Pin=R2-2
+Added Net: Name=PC7
+Added Pin To Net: NetName=PC8 Pin=JP?-10
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=JP?-11
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC10 Pin=JP?-20
+Added Pin To Net: NetName=PC10 Pin=U2-10
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11 Pin=JP?-21
+Added Pin To Net: NetName=PC11 Pin=U2-9
+Added Net: Name=PC11
+Added Pin To Net: NetName=PC12 Pin=JP?-22
+Added Net: Name=PC12
+Added Pin To Net: NetName=PC13 Pin=JP?-46
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=JP?-47
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=JP?-48
+Added Net: Name=PC15
+Added Pin To Net: NetName=PD0 Pin=JP?-23
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=JP?-24
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=JP?-25
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=JP?-26
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=JP?-27
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=JP?-28
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=JP?-29
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=JP?-30
+Added Net: Name=PD7
+Added Pin To Net: NetName=PD8 Pin=JP?-34
+Added Net: Name=PD8
+Added Pin To Net: NetName=PD9 Pin=JP?-35
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=JP?-36
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=JP?-37
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=JP?-38
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=JP?-39
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD14 Pin=JP?-40
+Added Net: Name=PD14
+Added Pin To Net: NetName=PD15 Pin=JP?-41
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE0 Pin=JP?-39
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=JP?-40
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=JP?-41
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=JP?-42
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=JP?-43
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=JP?-44
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=JP?-45
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7 Pin=JP?-19
+Added Net: Name=PE7
+Added Pin To Net: NetName=PE8 Pin=JP?-20
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE9 Pin=JP?-21
+Added Net: Name=PE9
+Added Pin To Net: NetName=PE10 Pin=JP?-22
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE11 Pin=JP?-23
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE12 Pin=JP?-24
+Added Net: Name=PE12
+Added Pin To Net: NetName=PE13 Pin=JP?-25
+Added Net: Name=PE13
+Added Pin To Net: NetName=PE14 Pin=JP?-26
+Added Net: Name=PE14
+Added Pin To Net: NetName=PE15 Pin=JP?-27
+Added Net: Name=PE15
+Added Pin To Net: NetName=PWMA-1 Pin=FPC?-14
+Added Net: Name=PWMA-1
+Added Pin To Net: NetName=PWMA-2 Pin=FPC?-15
+Added Net: Name=PWMA-2
+Added Pin To Net: NetName=PWMB-1 Pin=FPC?-16
+Added Net: Name=PWMB-1
+Added Pin To Net: NetName=PWMB-2 Pin=FPC?-17
+Added Net: Name=PWMB-2
+Added Pin To Net: NetName=PWMC-1 Pin=FPC?-18
+Added Net: Name=PWMC-1
+Added Pin To Net: NetName=PWMC-2 Pin=FPC?-19
+Added Net: Name=PWMC-2
+Added Pin To Net: NetName=PWMD-1 Pin=FPC?-20
+Added Net: Name=PWMD-1
+Added Pin To Net: NetName=PWMD-2 Pin=FPC?-21
+Added Net: Name=PWMD-2
+Added Pin To Net: NetName=PWMSB-1 Pin=FPC?-28
+Added Net: Name=PWMSB-1
+Added Pin To Net: NetName=PWMSB-2 Pin=FPC?-29
+Added Net: Name=PWMSB-2
+Added Pin To Net: NetName=PWMSB-3 Pin=FPC?-30
+Added Net: Name=PWMSB-3
+Added Pin To Net: NetName=RST Pin=U??-9
+Added Net: Name=RST
+Added Pin To Net: NetName=SWCLK Pin=FPC?-25
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=FPC?-24
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=WirelessRX Pin=CN??-3
+Added Pin To Net: NetName=WirelessRX Pin=U2-8
+Added Net: Name=WirelessRX
+Added Pin To Net: NetName=WirelessTX Pin=CN??-4
+Added Pin To Net: NetName=WirelessTX Pin=U2-7
+Added Net: Name=WirelessTX
+Added Pin To Net: NetName=X1 Pin=FPC?-2
+Added Net: Name=X1
+Added Pin To Net: NetName=X2 Pin=FPC?-5
+Added Net: Name=X2
+Added Pin To Net: NetName=X3 Pin=FPC?-8
+Added Net: Name=X3
+Added Pin To Net: NetName=X4 Pin=FPC?-11
+Added Net: Name=X4
+Added Pin To Net: NetName=Y1 Pin=FPC?-3
+Added Net: Name=Y1
+Added Pin To Net: NetName=Y2 Pin=FPC?-6
+Added Net: Name=Y2
+Added Pin To Net: NetName=Y3 Pin=FPC?-9
+Added Net: Name=Y3
+Added Pin To Net: NetName=Y4 Pin=FPC?-12
+Added Net: Name=Y4
+Added Pin To Net: NetName=Z1 Pin=FPC?-4
+Added Net: Name=Z1
+Added Pin To Net: NetName=Z2 Pin=FPC?-7
+Added Net: Name=Z2
+Added Pin To Net: NetName=Z3 Pin=FPC?-10
+Added Net: Name=Z3
+Added Pin To Net: NetName=Z4 Pin=FPC?-13
+Added Net: Name=Z4
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

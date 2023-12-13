@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=U2 Old Footprint=SOP-16_L9.9-W3.9-P1.27-LS6.0-BL New Footprint=SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
+Change Component Comment : Designator=U2 Old Comment=MAX232 New Comment=MAX3232IDR
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOP-16_L9.9-W3.9-P1.27-LS6.0-BL"; UniqueID = "\LVAIEGSG" ("\LVAIEGSG")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data Rate"; Value = "250Kbps"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20130907/1457706645949.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MAX3232IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Driver/receiver"; Value = "2/2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "MAX3232IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MAX3232IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MAX3232IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C18261"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage"; Value = "3V~5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MAX3232IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Types"; Value = "收发器"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Z1 Pin=D4-1
+Added Pin To Net: NetName=X2 Pin=D5-1
+Added Pin To Net: NetName=Z3 Pin=D11-1
+Added Pin To Net: NetName=X4 Pin=D12-1
+Added Pin To Net: NetName=Z1 Pin=R11-1
+Added Pin To Net: NetName=X2 Pin=R12-1
+Added Pin To Net: NetName=Z3 Pin=R23-1
+Added Pin To Net: NetName=X4 Pin=R24-1

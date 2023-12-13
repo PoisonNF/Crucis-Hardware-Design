@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PB8 Pin=FPC-28
+Removed Pin From Net: NetName=PC9 Pin=FPC-29
+Removed Pin From Net: NetName=PC9 Pin=FPC-30
+Added Pin To Net: NetName=PWMSB-1 Pin=FPC-28
+Added Net: Name=PWMSB-1
+Added Pin To Net: NetName=PWMSB-2 Pin=FPC-29
+Added Net: Name=PWMSB-2
+Added Pin To Net: NetName=PWMSB-3 Pin=FPC-30
+Added Net: Name=PWMSB-3
