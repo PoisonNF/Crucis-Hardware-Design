@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\I.MX6ull板\PCB1.PcbDoc
-Date     : 2023/12/13
-Time     : 16:18:26
+Date     : 2023/12/25
+Time     : 16:55:02
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
    Violation between Clearance Constraint: (0mm < 0.1mm) Between Split Plane  (GND) on GND And Split Plane  (No Net) on GND 

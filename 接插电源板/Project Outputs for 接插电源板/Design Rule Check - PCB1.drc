@@ -1,11 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\接插电源板\PCB1.PcbDoc
-Date     : 2023/12/13
-Time     : 16:18:42
+Date     : 2024/1/12
+Time     : 13:40:35
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+   Violation between Clearance Constraint: (0.038mm < 0.127mm) Between Split Plane  (12V) on PWR And Split Plane  (-12V) on PWR 
    Violation between Clearance Constraint: (Collision < 0.127mm) Between Split Plane  (12V) on PWR And Split Plane  (No Net) on PWR 
-Rule Violations :1
+Rule Violations :2
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -16,7 +17,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=0.3mm) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=0.762mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -48,6 +49,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 5
+Violations Detected : 6
 Waived Violations : 0
 Time Elapsed        : 00:00:01
