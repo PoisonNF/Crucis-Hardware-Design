@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PE0 Pin=R4-1
+Added Pin To Net: NetName=PE0 Pin=R16-1
+Added Pin To Net: NetName=PE0 Pin=U3-19
+Added Pin To Net: NetName=PE0 Pin=U4-19
+Added Member To Class: ClassName=STM32 Member=Component JP3 KF2EDGR-3.81-2P

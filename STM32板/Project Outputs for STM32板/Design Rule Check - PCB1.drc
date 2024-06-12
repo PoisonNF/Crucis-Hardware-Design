@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\OneDrive\附件\研究生相关\Crucis设计\Crucis硬件设计\STM32板\PCB1.PcbDoc
-Date     : 2023/12/24
-Time     : 9:38:20
+Date     : 2024/6/12
+Time     : 19:53:50
 
 Processing Rule : Clearance Constraint (Gap=3.937mil) (All),(All)
    Violation between Clearance Constraint: (Collision < 3.937mil) Between Split Plane  (3.3V) on PWR And Split Plane  (No Net) on PWR 
@@ -60,4 +60,4 @@ Rule Violations :0
 
 Violations Detected : 15
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
