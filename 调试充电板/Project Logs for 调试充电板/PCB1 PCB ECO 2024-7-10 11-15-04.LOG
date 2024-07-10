@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=WTX Pin=R2-1
+Removed Pin From Net: NetName=WRX Pin=R3-1
+Removed Pin From Net: NetName=WlessTX Pin=R4-1
+Removed Pin From Net: NetName=WlessRX Pin=R5-1
+Removed Pin From Net: NetName=WlessRX Pin=U1-9
+Removed Pin From Net: NetName=WlessTX Pin=U1-10
+Removed Pin From Net: NetName=WRX Pin=U2-6
+Removed Pin From Net: NetName=WTX Pin=U2-7
+Removed Pin From Net: NetName=WlessRX Pin=U3-6
+Removed Pin From Net: NetName=WlessTX Pin=U3-7
+Removed Pin From Net: NetName=5V Pin=Wless-1
+Removed Pin From Net: NetName=GND Pin=Wless-2
+Removed Member From Class: ClassName=Sheet1 Member=Wless
+Change Component Comment : Designator=C1 Old Comment=470nF New Comment=100nF
+Change Component Comment : Designator=C2 Old Comment=470nF New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=470nF New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=470nF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=470nF New Comment=100nF
+Change Component Comment : Designator=U1 Old Comment=MAX232IDR New Comment=MAX3232IDR
+Change Component Designator: OldDesignator=Charge NewDesignator=DC
+Added Component: Designator=Lora(a28_t2g4a27d1a)
+Added Component: Designator=POWER(CONN-TH_2P-P3.81_KF2EDGR-3.81-2P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "ÂÌÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "°å¶Ë/²å×ù-±Õ¿Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230331/6258E6C6BF04EFF922F3E5A9E72A4547.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "°å¶Ë/²å×ù-±Õ¿Ú 1x2P 3.81mm ÅÅÊý:1 Ã¿ÅÅPÊý:2 ÍäÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(¿Æ·¢)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ÍäÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "Íä²å,P=3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C441182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=WlessS(HDR-TH_4P-P2.54-V-M-R2-C2-S2.54)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220923/B99F04FBBE53F9D60C18D50D8418B40E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ZHOURI(ÖÞÈÕ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Ë«ÅÅ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "2x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5156675"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Added Component: Designator=WS(HDR-TH_4P-P2.54-V-M-R2-C2-S2.54)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220923/B99F04FBBE53F9D60C18D50D8418B40E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ZHOURI(ÖÞÈÕ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Ë«ÅÅ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "2x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5156675"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ2.54-2*2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Lora-1
+Added Pin To Net: NetName=5V Pin=Lora-2
+Added Pin To Net: NetName=WlessTX Pin=Lora-4
+Added Pin To Net: NetName=WlessRX Pin=Lora-5
+Added Pin To Net: NetName=5V Pin=Lora-6
+Added Pin To Net: NetName=GND Pin=Lora-7
+Added Pin To Net: NetName=5V Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=WlessRX Pin=WlessS-1
+Added Pin To Net: NetName=WlessTX Pin=WlessS-4
+Added Pin To Net: NetName=WRX Pin=WS-1
+Added Pin To Net: NetName=WTX Pin=WS-4
+Added Pin To Net: NetName=USB1_RXD Pin=R3-1
+Added Pin To Net: NetName=USB1_RXD Pin=U2-7
+Added Pin To Net: NetName=USB1_RXD Pin=WS-2
+Added Net: Name=USB1_RXD
+Added Pin To Net: NetName=USB1_TXD Pin=R2-1
+Added Pin To Net: NetName=USB1_TXD Pin=U2-6
+Added Pin To Net: NetName=USB1_TXD Pin=WS-3
+Added Net: Name=USB1_TXD
+Added Pin To Net: NetName=USB2_RXD Pin=R5-1
+Added Pin To Net: NetName=USB2_RXD Pin=U3-7
+Added Pin To Net: NetName=USB2_RXD Pin=WlessS-2
+Added Net: Name=USB2_RXD
+Added Pin To Net: NetName=USB2_TXD Pin=R4-1
+Added Pin To Net: NetName=USB2_TXD Pin=U3-6
+Added Pin To Net: NetName=USB2_TXD Pin=WlessS-3
+Added Net: Name=USB2_TXD
+Added Member To Class: ClassName=Sheet1 Member=Component Lora a28t2g4a27d1acn
+Added Member To Class: ClassName=Sheet1 Member=Component POWER KF2EDGR-3.81-2P
+Added Member To Class: ClassName=Sheet1 Member=Component WlessS PZ2.54-2*2
+Added Member To Class: ClassName=Sheet1 Member=Component WS PZ2.54-2*2
+Added Room: Name=Sheet1

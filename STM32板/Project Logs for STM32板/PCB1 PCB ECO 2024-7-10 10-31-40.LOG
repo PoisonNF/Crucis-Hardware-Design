@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=5V Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP5-2
+Removed Pin From Net: NetName=PC11 Pin=U2-9
+Removed Pin From Net: NetName=PC10 Pin=U2-10
+Removed Member From Class: ClassName=STM32 Member=JP5
+Added Component: Designator=*(a28_t2g4a27d1a)
+Added Component: Designator=CN??(CONN-TH_4P-P3.81_KF2EDGR-3.81-4P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "ÂÌÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "°å¶Ë/²å×ù-±Õ¿Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191023/C441184_550E53BE0568649FEADF643ADAFA40B9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "°å¶Ë/²å×ù-±Õ¿Ú 3.81mm ÅÅÊý:1 Ã¿ÅÅPÊý:4 ÍäÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(¿Æ·¢)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ÍäÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "P=3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C441184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.81-4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - AWG"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - mm?"; Value = "-"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CONN-TH_3P-P3.81_KF2EDGR-3.81-3P)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "ÂÌÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "°å¶Ë/²å×ù-±Õ¿Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191023/C441183_0DEFA45C98AD039C055774507C9A3105.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KF2EDGR-3.81-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "°å¶Ë/²å×ù-±Õ¿Ú 3.81mm ÅÅÊý:1 Ã¿ÅÅPÊý:3 ÍäÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(¿Æ·¢)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.81-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ÍäÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2EDGR-3.81-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "P=3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C441183"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.81-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - AWG"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - mm?"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=5V Pin=*-2
+Added Pin To Net: NetName=PC11 Pin=*-4
+Added Pin To Net: NetName=PC10 Pin=*-5
+Added Pin To Net: NetName=5V Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=5V Pin=CN??-1
+Added Pin To Net: NetName=GND Pin=CN??-2
+Added Pin To Net: NetName=PA2 Pin=CN??-3
+Added Pin To Net: NetName=PA3 Pin=CN??-4
+Added Pin To Net: NetName=GND Pin=JP?-1
+Added Pin To Net: NetName=PC12 Pin=JP?-2
+Added Pin To Net: NetName=PD2 Pin=JP?-3
+Added Member To Class: ClassName=STM32 Member=Component * a28t2g4a27d1acn
+Added Member To Class: ClassName=STM32 Member=Component CN?? KF2EDGR-3.81-4P
+Added Member To Class: ClassName=STM32 Member=Component JP3 Header 13
+Added Member To Class: ClassName=STM32 Member=Component JP? KF2EDGR-3.81-3P
+Added Room: Name=AD4111_1
+Added Room: Name=AD4111_2
+Added Room: Name=STM32

@@ -1,0 +1,8 @@
+Added Component: Designator=Lora(a28_t2g4a27d1a)
+Added Pin To Net: NetName=GND Pin=Lora-1
+Added Pin To Net: NetName=5V Pin=Lora-2
+Added Pin To Net: NetName=WlessTX Pin=Lora-4
+Added Pin To Net: NetName=WlessRX Pin=Lora-5
+Added Pin To Net: NetName=5V Pin=Lora-6
+Added Pin To Net: NetName=GND Pin=Lora-7
+Added Member To Class: ClassName=Sheet1 Member=Component Lora a28t2g4a27d1acn

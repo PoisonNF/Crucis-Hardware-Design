@@ -1,0 +1,59 @@
+Added Component: Designator=DAP_UART(CONN-TH_4P-P2.50_HCTL_HC-XHB-4A)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230711/94C5BFB4D0A0F292EDF07DDE5BFB6378.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HC-XHB-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x4P 间距:2.5mm 直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HCTL(华灿天禄)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HC-XHB-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2845492"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HC-XHB-4A"; VariantName = "[No Variations]"
+Added Component: Designator=JLINK(CONN-TH_4P-P2.50_HCTL_HC-XHB-4A)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230711/94C5BFB4D0A0F292EDF07DDE5BFB6378.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HC-XHB-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x4P 间距:2.5mm 直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HCTL(华灿天禄)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HC-XHB-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2845492"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HC-XHB-4A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=DAP_UART-1
+Added Pin To Net: NetName=PA10 Pin=DAP_UART-2
+Added Pin To Net: NetName=PA9 Pin=DAP_UART-3
+Added Pin To Net: NetName=GND Pin=DAP_UART-4
+Added Pin To Net: NetName=5V Pin=JLINK-1
+Added Pin To Net: NetName=PA13 Pin=JLINK-2
+Added Pin To Net: NetName=PA14 Pin=JLINK-3
+Added Pin To Net: NetName=GND Pin=JLINK-4
+Added Member To Class: ClassName=STM32 Member=Component DAP_UART HC-XHB-4A
+Added Member To Class: ClassName=STM32 Member=Component JLINK HC-XHB-4A
+Added Member To Class: ClassName=STM32 Member=Component JP8 KF2EDGR-3.81-3P
